@@ -1,4 +1,4 @@
-<img width="1294" height="400" alt="Frame 1" src="https://github.com/user-attachments/assets/00a0bb9f-95e4-4fa4-851d-8a37fa400bc5" />
+<img width="1294" height="427" alt="capa" src="https://github.com/user-attachments/assets/3af4a720-19d5-4319-b39e-a9faf19462ff" />
 
 ---
 <div align="right">
@@ -11,8 +11,8 @@
 
 ---
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samudasilva&show_icons=true&theme=bluetheme)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samudasilva&layout=compact" width="415,5">
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samudasilva&show_icons=true&theme=prussian)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samudasilva&layout=compact&theme=prussian" width="415,5">
 
 
 
@@ -27,7 +27,8 @@
 
 <div align= "center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
+![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/user-attachments/assets/b1288cdb-8b77-474d-8214-e2dcfede0de6)
+
 <br><br>
 
 </div>
