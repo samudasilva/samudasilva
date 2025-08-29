@@ -11,8 +11,7 @@
 
 ---
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samudasilva&show_icons=true&theme=prussian)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samudasilva&layout=compact&theme=prussian" width="415,5">
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samudasilva&show_icons=true&theme=prussian) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samudasilva&layout=compact&theme=prussian" width="415,5">
 
 
 
