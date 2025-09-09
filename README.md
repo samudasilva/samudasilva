@@ -18,8 +18,9 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
+  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,sass,javascript,python,c#,typescript" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,ts,javascript,java,python,figma,wordpress,bootstrap,mysql,php,cs,cpp" />
   </a>
 </p>
 
